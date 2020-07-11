@@ -8,6 +8,8 @@ We are down to 6.24 KB (6,393 bytes) and only a few errors, some of which seem l
 Remaining Skin errors from stderrgui.txt
 ---
 Skin Manager: Origanization report bug url was not defined. Using defaults.
+
 Skin Manager: Failed to load 'application snooze' icon. Using default.
+
 Skin Manager: Failed to load 'application disconnected' icon. Using default.
 
